@@ -1,4 +1,4 @@
-<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/b01d3e87-caac-49e0-b54b-5e5e31d04d3a" /># SSB
+
 
 EXP NO: 3	SSB-SC-AM MODULATION using SCILAB
 
